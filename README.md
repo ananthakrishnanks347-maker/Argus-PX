@@ -13,22 +13,6 @@ An ultra-modern, high-concurrency network reconnaissance engine and real-time CV
   ─────────────────────────────────────────────────────────────
    [ SYSTEM OVERRIDE ] »» NET RUNNER SUITE v2.6 // PROTOTYPE LAYER
   ─────────────────────────────────────────────────────────────
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 🛠️ System Architecture & Engineering
 Unlike traditional sequential auditing utilities, Argus PX relies on a sophisticated Dual-Engine Execution Model to maintain console rendering liquidity and process line integrity:
 
@@ -56,15 +40,7 @@ Automated Passthrough Flag Parsing: Fully accommodates raw down-stream parameter
 
 Asymmetric Signal Guardrails: Hardened with multi-layered protection blocks (KeyboardInterrupt), ensuring that if a user executes a forced manual termination signal (Ctrl+C), the background daemon thread is safely re-joined, the terminal buffering cache clears cleanly, and system streams return to baseline without hanging.
 
-💻 Operational Execution Examples
-Ensure you execute infrastructure scanning tasks with proper target designations when passing raw network evaluation arrays:
 
-Bash
-# Display the comprehensive operational system guide and flags
-python3 argus.py --help
-
-# Run a localized, high-impact tactical sweep against an active node
-python3 argus.py 10.49.169.61
 
 # Pass advanced execution parameters downstream into the shell pipeline
 python3 argus.py -sS -A -T4 10.49.169.61
@@ -78,3 +54,12 @@ Port	Protocol	Default Service	Target Threat Vector Mapped	Severity Profile
 445	TCP	SMB	EternalBlue Remote Code Execution (MS17-010)	CRITICAL
 ⚖️ Development License
 Distributed under the MIT License. Copyright (c) 2026 Ananthakrishnan ks. All Systems Integrated Safely.
+💻 Operational Execution Examples
+Ensure you execute infrastructure scanning tasks with proper target designations when passing raw network evaluation arrays:
+
+Bash
+# Display the comprehensive operational system guide and flags
+python3 argus.py --help
+
+# Run a localized, high-impact tactical sweep against an active node
+python3 argus.py 10.49.169.61
