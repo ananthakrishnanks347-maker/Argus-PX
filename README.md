@@ -1,3 +1,34 @@
+# ⚡ ARGUS PX v2.6 // APEX RECONNAISSANCE ENGINE
+
+An ultra-modern, high-concurrency network reconnaissance engine and real-time CVE mapping utility. Engineered to combine robust low-level process orchestration with an elite, tactical terminal presentation interface.
+
+```text
+   █████╗ ██████╗  ██████╗ ██╗   ██╗███████╗   ██████╗ ██╗  ██╗
+  ██╔══██╗██╔══██╗██╔════╝ ██║   ██║██╔════╝   ██╔══██╗╚██╗██╔╝
+  ███████║██████╔╝██║  ███╗██║   ██║███████╗   ██████╔╝ ╚███╔╝ 
+  ██╔══██║██╔══██╗██║   ██║██║   ██║╚════██║   ██╔═══╝  ██╔██╗ 
+  ██║  ██║██║  ██║╚██████╔╝╚██████╔╝███████║   ██║     ██╔╝ ██╗
+  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝     ╚═╝  ╚═╝ ⚡ »» v2.6
+
+  ─────────────────────────────────────────────────────────────
+   [ SYSTEM OVERRIDE ] »» NET RUNNER SUITE v2.6 // PROTOTYPE LAYER
+  ─────────────────────────────────────────────────────────────
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🛠️ System Architecture & Engineering
 Unlike traditional sequential auditing utilities, Argus PX relies on a sophisticated Dual-Engine Execution Model to maintain console rendering liquidity and process line integrity:
 
