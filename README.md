@@ -49,3 +49,18 @@ python3 argus.py --help
 
 # Run a localized, high-impact tactical sweep against an active node
 python3 argus.py 10.49.169.61
+# ⚡ ARGUS PX v2.6 // APEX RECONNAISSANCE ENGINE
+
+An ultra-modern, high-concurrency network reconnaissance engine and real-time CVE mapping utility. Engineered to combine robust low-level process orchestration with an elite, tactical terminal presentation interface.
+
+```text
+   █████╗ ██████╗  ██████╗ ██╗   ██╗███████╗   ██████╗ ██╗  ██╗
+  ██╔══██╗██╔══██╗██╔════╝ ██║   ██║██╔════╝   ██╔══██╗╚██╗██╔╝
+  ███████║██████╔╝██║  ███╗██║   ██║███████╗   ██████╔╝ ╚███╔╝ 
+  ██╔══██║██╔══██╗██║   ██║██║   ██║╚════██║   ██╔═══╝  ██╔██╗ 
+  ██║  ██║██║  ██║╚██████╔╝╚██████╔╝███████║   ██║     ██╔╝ ██╗
+  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝     ╚═╝  ╚═╝ ⚡ »» v2.6
+
+  ─────────────────────────────────────────────────────────────
+   [ SYSTEM OVERRIDE ] »» NET RUNNER SUITE v2.6 // PROTOTYPE LAYER
+  ─────────────────────────────────────────────────────────────
