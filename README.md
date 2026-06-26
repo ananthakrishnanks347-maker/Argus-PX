@@ -30,7 +30,7 @@ The "Quantum Layer" Intercept Grid: Identifies targets with an illuminated horiz
 
 🚀 Live Visuals & Interface Profile
 📊 Comprehensive Feature Metrics & Hardening
-Deep Stream-Masking Filter: Features a real-time text intercept engine that completely overrides underlying system binary signatures. Legacy strings (Nmap / nmap) and internal operational manual strings (MAN PAGE / man.html) are completely scrubbed out on-the-fly and translated to match the Argus PX environment layout.
+<img width="1920" height="966" alt="Screenshot_2026-06-27_01_46_34" src="https://github.com/user-attachments/assets/0bfe5b6f-ff31-4547-a9f7-c80af2ad9950" />
 
 Regular Expression Layer Parsing: Outfitted with an optimized regex capture string (^(\d+)/(tcp|udp)\s+(\w+)\s+(.*)$). This guarantees flawless tracking of transport layers, protocol types, port integers, and service banners without risking console text truncation errors.
 
