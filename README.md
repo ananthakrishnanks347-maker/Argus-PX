@@ -43,8 +43,8 @@ Distributed under the MIT License. Copyright (c) 2026 Ananthakrishnan ks. All Sy
 💻 Operational Execution Examples
 Ensure you execute infrastructure scanning tasks with proper target designations when passing raw network evaluation arrays:
 
-Bash
-# Display the comprehensive operational system guide and flags
+'''''''Bash
+# Display the comprehensive operational system guide
 python3 argus.py --help
 
 # Run a localized, high-impact tactical sweep against an active node
