@@ -43,12 +43,19 @@ Distributed under the MIT License. Copyright (c) 2026 Ananthakrishnan ks. All Sy
 💻 Operational Execution Examples
 Ensure you execute infrastructure scanning tasks with proper target designations when passing raw network evaluation arrays:
 
-'''''''Bash
-# Display the comprehensive operational system guide
-python3 argus.py --help
+## 💻 Operational Execution Examples
+Ensure you execute infrastructure scanning tasks with elevated context (`sudo`) when calling raw socket manipulations or low-level SYN mechanisms:
 
-# Run a localized, high-impact tactical sweep against an active node
-python3 argus.py { target ip }
+```bash
+# Trigger a fast, stealth reconnaissance sweep against a targeted infrastructure asset
+sudo python3 argus.py -sS -O --min-rate 500  10.49.169.61
+
+# Execute a network scan utilizing random decoy targets and custom data length padding
+sudo python3 argus.py -D RND:5 --data-length 25  10.49.169.61
+
+# normal execution
+sudo python3 argus.py  10.49.169.61
+
 # ⚡ ARGUS PX v2.6 // APEX RECONNAISSANCE ENGINE
 
 An ultra-modern, high-concurrency network reconnaissance engine and real-time CVE mapping utility. Engineered to combine robust low-level process orchestration with an elite, tactical terminal presentation interface.
